@@ -7,12 +7,11 @@
   
   <br>
   <br>
-  <p>Repositório destinado aos arquivos do curso de Spring Boot e React do meu canal no YouTube, <a href="https://www.youtube.com/watch?v=o82GiIk9SX0&list=PLWXw8Gu52TRKouXUo3Abu33_ODPXZTz64">clique aqui</a> para acessar a playlist completa.</p>
+  <p>Repositório destinado aos arquivos de implementação do projeto Java Spring Boot com React JS </p>
   <br>
   <div align="justify">
-  <h3>Tópicos abordados:</h3>
+  <h3>Tópicos de Implementação:</h3>
   
-   + Introdução;
    + Criando projeto Spring Boot;
    + Gerando tabela;
    + Estruturando projeto Spring Boot;
@@ -28,4 +27,15 @@
 
    
   </div>
+
+  <div>
+    <h3>Rotas API</h3>
+    <srong> http://localhost:8080/listar </strong>
+    <srong> http://localhost:8080/cadastrar </strong>
+    <srong> http://localhost:8080/alterar </strong>
+    <srong> http://localhost:8080/remover </strong>
+  </div>
+
+
+  <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/spring.png" width="30%">
 </div>
