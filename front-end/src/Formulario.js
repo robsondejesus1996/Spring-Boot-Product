@@ -1,11 +1,11 @@
-function Formulario({ botao, eventoTeclado }) {
+function Formulario({ botao, eventoTeclado, cadastrar }) {
   return (
     <form>
       <input type="text" onChange={eventoTeclado} name ='nome' placeholder="Nome" className="form-control" />
       <input type="text" onChange={eventoTeclado} name= 'marca' placeholder="Marca" className="form-control" />
 
       {botao ? (
-        <input type="button" value="cadastrar" className="btn btn-primary" />
+        <input type="button" value="cadastrar" onClick={cadastrar} className="btn btn-primary" />
       ) : (
         <div>
           <input type="button" value="Alterar" className="btn btn-warning" />
