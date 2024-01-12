@@ -41,7 +41,7 @@
 
 
   <h1>Layout Aplicação</h1>
-  <img src="https://github.com/robsondejesus1996/Spring-Boot-Product/assets/31260719/1056db72-7c19-4bf8-82ca-470270a4872c" width="50%">
+  <img src="https://github.com/robsondejesus1996/Spring-Boot-Product/assets/31260719/1056db72-7c19-4bf8-82ca-470270a4872c" width="100%">
 
   
 </div>
